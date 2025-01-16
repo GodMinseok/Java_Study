@@ -14,5 +14,6 @@ public class Var8 {
         //실수
         float f = 10.0f;
         double d = 10.0;
+
     }
 }
