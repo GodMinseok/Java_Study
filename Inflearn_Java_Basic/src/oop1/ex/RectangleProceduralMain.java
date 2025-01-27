@@ -12,6 +12,7 @@ public class RectangleProceduralMain {
 
         boolean square = isSquare(width, height);
         System.out.println("정사각형 여부: " + square);
+
     }
 
     static int calculateArea(int width, int height) {
