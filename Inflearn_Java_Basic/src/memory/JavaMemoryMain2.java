@@ -7,6 +7,7 @@ public class JavaMemoryMain2 {
         method1();
         System.out.println("main end");
     }
+    
 
     static void method1() {
         System.out.println("method1 start");
