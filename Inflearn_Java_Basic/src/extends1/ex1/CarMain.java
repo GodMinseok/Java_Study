@@ -7,6 +7,7 @@ public class CarMain {
         electricCar.move();
         electricCar.charge();
 
+
         GasCar gasCar = new GasCar();
         gasCar.move();
         gasCar.fillUp();
