@@ -13,5 +13,4 @@ public class Model3Car {
     public void pressAccelerator() {
         System.out.println("Model3Car.pressAccelerator");
     }
-
 }
